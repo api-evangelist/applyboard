@@ -1,7 +1,26 @@
 aid: applyboard
 name: ApplyBoard
-description: ApplyBoard is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: ApplyBoard is a study-abroad application platform that simplifies the international
+  education journey by connecting students, recruitment partners, and partner schools on a
+  single platform. Students explore and apply to more than 1,500 global universities and
+  colleges across Canada, the United States, the United Kingdom, Ireland, Australia, and
+  Germany, with supporting services spanning financial products, English-language test
+  vouchers, and accommodation. ApplyBoard also operates ApplyProof, a document-verification
+  and trust product. The company does not publish a public developer API, OpenAPI definition,
+  or SDK; its programmatic surface (including ApplyProof) is partner-gated. It was surfaced as
+  a portfolio company of 500 Global and profiled in the API Evangelist network.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.applyboard.com/wp-content/uploads/2025/04/Home.png
 url: https://raw.githubusercontent.com/api-evangelist/applyboard/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -14,6 +33,12 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Education
+- EdTech
+- International Education
+- Study Abroad
+- Student Recruitment
+- Document Verification
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +48,28 @@ maintainers:
 common:
 - type: Website
   url: https://applyboard.com
+- type: About
+  url: https://www.applyboard.com/about
+- type: Blog
+  url: https://www.applyboard.com/blog
+- type: Support
+  url: https://www.applyboard.com/contact
+- type: SignUp
+  url: https://www.applyboard.com/register
+- type: Login
+  url: https://accounts.applyboard.com/
+- type: TermsOfService
+  url: https://www.applyboard.com/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://www.applyboard.com/privacy-policy
+- type: GitHubOrganization
+  url: https://github.com/ApplyBoard
+- type: DomainSecurity
+  url: security/applyboard-domain-security.yml
+- type: LLMsTxt
+  url: llms/applyboard-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

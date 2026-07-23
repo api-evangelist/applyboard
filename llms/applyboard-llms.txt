@@ -1,0 +1,34 @@
+# ApplyBoard
+
+> ApplyBoard simplifies the study abroad process by connecting international students, recruitment partners, and partner schools on a single platform. Students can explore and apply to 1,500+ global universities and colleges across Canada, the United States, the United Kingdom, Ireland, Australia, and Germany. ApplyBoard does not publish a public developer API or OpenAPI definition; its API surface (including the ApplyProof document-verification product) is partner-gated.
+
+## Company
+- [Home](https://www.applyboard.com/): Study abroad application platform.
+- [About / Our Story](https://www.applyboard.com/about): Company background and mission.
+- [Blog](https://www.applyboard.com/blog): News, product updates, and study-abroad guidance.
+- [Careers](https://www.applyboard.com/careers): Open roles at ApplyBoard.
+- [Contact](https://www.applyboard.com/contact): Contact and support routing.
+
+## Audiences
+- [Students / Study Abroad](https://www.applyboard.com/studyabroad): Explore and apply to programs.
+- [Institutions](https://www.applyboard.com/institution): Partner schools.
+- [Recruitment Partners](https://www.applyboard.com/recruitment-partners): Agents and recruiters.
+
+## Accounts
+- [Register](https://www.applyboard.com/register): Create an account.
+- [Log In](https://accounts.applyboard.com/): Sign in.
+
+## Related products
+- [ApplyProof](https://www.applyproof.com/): Document-verification / trust product; integrations available via partner APIs (not publicly documented).
+- [Partners portal](https://partners.applyboard.com/): Partner-facing surface (access-gated).
+
+## Code
+- [GitHub organization](https://github.com/ApplyBoard): Public repositories (utilities and hiring challenges; no first-party API SDK).
+
+## Legal
+- [Privacy Policy](https://www.applyboard.com/privacy-policy)
+- [Terms and Conditions](https://www.applyboard.com/terms-and-conditions)
+
+## Notes
+- No public OpenAPI/Swagger, AsyncAPI, MCP server, CLI, or SDK was found on the public surface as of 2026-07-17.
+- No /.well-known/ discovery documents (security.txt, openid-configuration, oauth-authorization-server, api-catalog, ai-plugin.json) and no /llms.txt are published.
