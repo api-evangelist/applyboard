@@ -9,6 +9,17 @@ description: ApplyBoard is a study-abroad application platform that simplifies t
   and trust product. The company does not publish a public developer API, OpenAPI definition,
   or SDK; its programmatic surface (including ApplyProof) is partner-gated. It was surfaced as
   a portfolio company of 500 Global and profiled in the API Evangelist network.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
